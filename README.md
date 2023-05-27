@@ -28,4 +28,4 @@ Apache License, Version 2.0
 
 ## Author
 
-This project was created by Emilija Korunoska. For more information about Emilija, visit her [LinkedIn profile](https://ba.linkedin.com/in/emilijakorunoska).
+This project was created by Emilija Korunoska. For more information visit [LinkedIn profile](https://ba.linkedin.com/in/emilijakorunoska).
